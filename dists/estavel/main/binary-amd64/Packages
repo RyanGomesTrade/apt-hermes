@@ -17,6 +17,25 @@ Description: lançador do Hermes Quant Lab no Caduceu OS
  navegador, atualiza pela main do GitHub e encerra tudo ao fechar a janela.
  Inclui o ajudante de credencial do Git que guarda o login no chaveiro do sistema.
 
+Package: caduceu-hermes
+Architecture: amd64
+Version: 0.5.2
+Priority: optional
+Section: misc
+Maintainer: Caduceu OS <caduceu@localhost>
+Installed-Size: 88
+Depends: libc6, libgtk-3-0t64, libglib2.0-0t64, libsecret-1-0, gnome-keyring, git, nodejs, npm
+Filename: pool/main/caduceu-hermes_0.5.2_amd64.deb
+Size: 13860
+MD5sum: 72217c3ca52d642239e63501bcc87ea1
+SHA1: c2180239c1d50a0e158628d8a47763842cdbc1b1
+SHA256: d1efd9bad116a42f956bad58ad582c8a0611328d8870f1009d32aae257b8ee6e
+SHA512: ca1032cdffcf9f4021219c693095deeddbc067a684efb492bff3fe6a93006aae8d43d7647901052f290f27aa4918d77c0b19de1a2b1d5d2571b52e569c5e26e4
+Description: lançador do Hermes Quant Lab no Caduceu OS
+ hq-hermes sobe a API e o front do Hermes pré-instalado em /opt/hermes, abre o
+ navegador, atualiza pela main do GitHub e encerra tudo ao fechar a janela.
+ Inclui o ajudante de credencial do Git que guarda o login no chaveiro do sistema.
+
 Package: caduceu-identidade
 Architecture: all
 Version: 0.5.1
@@ -33,6 +52,27 @@ MD5sum: 42c003a79806bcf487e8f4cff58ebffa
 SHA1: 177e0b8fe38c7a71778824c8845f86764db27dbe
 SHA256: d5ce0c2126868312a60712c361c82f3ead05b8a3bd2e2db23a26179d546c644d
 SHA512: 00fe83ec3be51f664c54579d6713ea1a57a8650e46b3b61ac896667406fc9a169ff244a059fbdb7248e943cca37345d79a1645bf51f2b4bc84149f65a9bdfb37
+Description: identidade visual do Caduceu OS
+ Tema GTK3 e xfwm4 "Caduceu", fontes IBM Plex, logo e papéis de parede,
+ telas de boot (GRUB e Plymouth) e de login, esquema de cores do terminal,
+ prompt e padrões do Xfce para usuários novos.
+
+Package: caduceu-identidade
+Architecture: all
+Version: 0.5.2
+Priority: optional
+Section: misc
+Maintainer: Caduceu OS <caduceu@localhost>
+Installed-Size: 2032
+Depends: fontconfig, plymouth, xfce4-genmon-plugin
+Recommends: papirus-icon-theme, lightdm-gtk-greeter, xfce4-terminal, xfce4-panel, xdg-utils, xfce4-whiskermenu-plugin, xfce4-notifyd
+Conflicts: desktop-base
+Filename: pool/main/caduceu-identidade_0.5.2_all.deb
+Size: 451528
+MD5sum: 18fc599e5eef1795077f2a3167bc4244
+SHA1: 56e307785762b26c21d610e406c53070f2c3ffe8
+SHA256: 9bebf9d9531f88fb181270746b7fc3112e2d98d88b1924888ef662ac9fb413bd
+SHA512: 1337b0aca51dc5c400563ab72cd02443210780e0cebf9806a540dee3bac42ae75cf7248f8695484e280936c98770b3562a14ae57c23884ddd80c0c8b74173304
 Description: identidade visual do Caduceu OS
  Tema GTK3 e xfwm4 "Caduceu", fontes IBM Plex, logo e papéis de parede,
  telas de boot (GRUB e Plymouth) e de login, esquema de cores do terminal,
@@ -57,6 +97,25 @@ Description: comandos e configurações do sistema Caduceu OS
  (xrdp no vsock com d-bus próprio), SSH só por chave, módulos do Hyper-V e o
  repositório apt do Caduceu, para o sistema instalado atualizar sem reinstalar.
 
+Package: caduceu-sistema
+Architecture: all
+Version: 0.5.2
+Priority: optional
+Section: misc
+Maintainer: Caduceu OS <caduceu@localhost>
+Installed-Size: 128
+Depends: bash, git, iproute2, xrdp, xorgxrdp, openssh-server, ssh-askpass-gnome, dbus-bin
+Filename: pool/main/caduceu-sistema_0.5.2_all.deb
+Size: 8672
+MD5sum: f05aab5042ecedfd09880b15b866f485
+SHA1: 211b65b2e800ae8444e3f0eb68e9c4b7847c2804
+SHA256: 3a50fadba62248ffee73e68ecd2bc1835f9ed37655df351a555a1bf40c52d38d
+SHA512: 0a7d12a4ba9058f057874c255e4e34403007804b849c9d28a9d34450a7759ffd053c01d6a3c17c45045a7b7b0bc93db274db740f2725965fdfdc412155418e87
+Description: comandos e configurações do sistema Caduceu OS
+ Comandos hq-* (diagnóstico e ambiente do Hermes), sessão aprimorada do Hyper-V
+ (xrdp no vsock com d-bus próprio), SSH só por chave, módulos do Hyper-V e o
+ repositório apt do Caduceu, para o sistema instalado atualizar sem reinstalar.
+
 Package: caduceu
 Architecture: all
 Version: 0.5.1
@@ -70,6 +129,23 @@ MD5sum: 8c47b6d8cc2135167d11cf19e3e07956
 SHA1: 88d809026c929c91aeb2d4402d20093661059558
 SHA256: afedb78b69d22b2303370d1313d5ecc1cbe696a1e83a9b580e423b5e214f7666
 SHA512: a98e4f099b8a143247cd79c08606beb3c23f6244ef969566e6c3a048299cbe7fcfefbd04eba2fe299055c4aca2f0359d452f95c894dff6bdf9c44940c5fb4069
+Description: Caduceu OS (todos os pacotes do sistema)
+ Instala e atualiza juntos, sempre na mesma versão, a identidade visual, o
+ lançador do Hermes e os comandos e configurações do Caduceu OS.
+
+Package: caduceu
+Architecture: all
+Version: 0.5.2
+Priority: optional
+Section: metapackages
+Maintainer: Caduceu OS <caduceu@localhost>
+Depends: caduceu-identidade (= 0.5.2), caduceu-hermes (= 0.5.2), caduceu-sistema (= 0.5.2)
+Filename: pool/main/caduceu_0.5.2_all.deb
+Size: 832
+MD5sum: 8a44ac86bc572f4af25cd233da4c13a2
+SHA1: 776d4e53363ffddd51c00e0d8d11811fb464430c
+SHA256: b6d513f12212385a816e674760406dd084aa04e9301bf80232e9018b50895d9b
+SHA512: 8c5bdf2e262beb0f1a7db5f7c297da73c6c12d7be8180d0f5bc80787f86bcb4c0c36f667e8d6eb74cf3229514f2beb6a3de03dba22439a7033139e04c09afbb8
 Description: Caduceu OS (todos os pacotes do sistema)
  Instala e atualiza juntos, sempre na mesma versão, a identidade visual, o
  lançador do Hermes e os comandos e configurações do Caduceu OS.

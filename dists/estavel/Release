@@ -1,19 +1,23 @@
 Architectures: amd64
 Codename: estavel
 Components: main
-Date: Tue, 24 Nov 2026 17:10:06 +0000
+Date: Tue, 24 Nov 2026 23:23:57 +0000
 Label: Caduceu OS
 Origin: Caduceu OS
 Suite: estavel
 MD5Sum:
- 314fa0df731a3827e3766b7f3e1d4816             3563 main/binary-amd64/Packages
- c7b05d26bad0e7ebb1fe12072c842f9d             1799 main/binary-amd64/Packages.gz
+ 2cacd605bb83e1065e90f9724cbce309             1084 Release
+ 5549dda3040381498698c88d51f23b65             7126 main/binary-amd64/Packages
+ 364f8d72ff3d66fc044a7f9aca51efb7             2579 main/binary-amd64/Packages.gz
 SHA1:
- d77352fb2a8c8f3938ff8be96bf52d803cbdf232             3563 main/binary-amd64/Packages
- a890db14b57bb553e456e6f4667dcf87dd6223a4             1799 main/binary-amd64/Packages.gz
+ 1b3d587ad44b4d35d6043c08f29dabe8be24b8a7             1084 Release
+ d3666c97e7a749e7c7e5c05c3659693b3444ec82             7126 main/binary-amd64/Packages
+ 6827b675f271d6a1e517bda4d6dd6b51de8b8f25             2579 main/binary-amd64/Packages.gz
 SHA256:
- a52088729e1d684362a0154a388880d3d8c4ac6cb2ed362a6230adc0029a32d2             3563 main/binary-amd64/Packages
- d2c6d82eb25bfd176e885ccadc8796718c3e8fa759e6329bf16954b2b16329c4             1799 main/binary-amd64/Packages.gz
+ 9252f95fc17c97eabf632ea029a3010c229c902600dfb6e7e1b546578349d2e0             1084 Release
+ 17d22e06722951178666face45356e405c3bc4cf3e535e3b20b684c6c1fe0ef4             7126 main/binary-amd64/Packages
+ 9a099d6b091651b6215c2170ae58f8469e726ccd98ecbfd23001fe2d8fce3dcf             2579 main/binary-amd64/Packages.gz
 SHA512:
- 8834631f2bd2ec128dfa2ddc2a6b57de8d3845e9e01e7473e74c42aad3163446a72075619651470da3fff99d97f5a153b20897243ab0ccbfec64ef6bd0bc878d             3563 main/binary-amd64/Packages
- 782af51339c07f99709366fcc713cd45c01ed2bf85be73256d4ab8f4af8ad5a1b436811e5669e87af325cde3cb4dfd4369428085d5c5b7f28c7056b205c6cdaf             1799 main/binary-amd64/Packages.gz
+ a71513c24df5b83058dcb3f98b7a6f765e561c51da52a36245166eae1355511d02bbfefcdd2fe238a90f5b6ec49ebc15415b3e008cd13d5a36e6409b7ba6e83a             1084 Release
+ dc76ac94c4399f6dda667eb947901b8bb89c028633e73318e28472b329a61e1a8a8522bbfdc2159e772c0d985adf2132b8a077847b038b5c5c41ad61b3367a57             7126 main/binary-amd64/Packages
+ 33eec5629607994e8d2ba2a6843fc38a46b9435e1affda525e009650d490ba9155aa6e53c5cf5c3cdafb6854e667a5140cb9e2db7a83eb1fe296685b3d1f5330             2579 main/binary-amd64/Packages.gz
