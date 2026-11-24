@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: estavel
+Components: main
+Date: Tue, 24 Nov 2026 17:10:06 +0000
+Label: Caduceu OS
+Origin: Caduceu OS
+Suite: estavel
+MD5Sum:
+ 314fa0df731a3827e3766b7f3e1d4816             3563 main/binary-amd64/Packages
+ c7b05d26bad0e7ebb1fe12072c842f9d             1799 main/binary-amd64/Packages.gz
+SHA1:
+ d77352fb2a8c8f3938ff8be96bf52d803cbdf232             3563 main/binary-amd64/Packages
+ a890db14b57bb553e456e6f4667dcf87dd6223a4             1799 main/binary-amd64/Packages.gz
+SHA256:
+ a52088729e1d684362a0154a388880d3d8c4ac6cb2ed362a6230adc0029a32d2             3563 main/binary-amd64/Packages
+ d2c6d82eb25bfd176e885ccadc8796718c3e8fa759e6329bf16954b2b16329c4             1799 main/binary-amd64/Packages.gz
+SHA512:
+ 8834631f2bd2ec128dfa2ddc2a6b57de8d3845e9e01e7473e74c42aad3163446a72075619651470da3fff99d97f5a153b20897243ab0ccbfec64ef6bd0bc878d             3563 main/binary-amd64/Packages
+ 782af51339c07f99709366fcc713cd45c01ed2bf85be73256d4ab8f4af8ad5a1b436811e5669e87af325cde3cb4dfd4369428085d5c5b7f28c7056b205c6cdaf             1799 main/binary-amd64/Packages.gz
