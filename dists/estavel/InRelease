@@ -4,30 +4,30 @@ Hash: SHA512
 Architectures: amd64
 Codename: estavel
 Components: main
-Date: Fri, 27 Nov 2026 04:10:38 +0000
+Date: Fri, 27 Nov 2026 22:31:30 +0000
 Label: Caduceu OS
 Origin: Caduceu OS
 Suite: estavel
 MD5Sum:
- e8d03d010c647f5701926de85630a533             1456 Release
- a899e599aca0daa5a3cbe70be10c43c7             9184 main/binary-amd64/Packages
- 128fce8d74f655ad599a3f504eda2a43             3195 main/binary-amd64/Packages.gz
+ db9931ebd6868c409ff8e8c95e438aec             1456 Release
+ 55f31b0931c4e7164e43e875bcd8e840             9184 main/binary-amd64/Packages
+ d183d5995ae8115691aead9aee0d0986             3212 main/binary-amd64/Packages.gz
 SHA1:
- 72cfdbba107ed5533902e5f063213c24ea957b04             1456 Release
- 950da6007b244c27fa8bb00bfca303670cee41ea             9184 main/binary-amd64/Packages
- 6f2db4308c5ddcb73c77e3cd3dd3159ee5cce3e7             3195 main/binary-amd64/Packages.gz
+ b8055fa680d8b60c93af01ddedb78157ebe9711f             1456 Release
+ 64045ac67f42112198ade270231e4d6cd169840c             9184 main/binary-amd64/Packages
+ a285eba1fd9f50569b83f809079e94ff6ea29c50             3212 main/binary-amd64/Packages.gz
 SHA256:
- 0881e1c1a087e67022e37df3b80e6ad3e49862ecee6fd1dbd83c45027f61abd9             1456 Release
- 8b6280a0614f5fa83092547b776e03f469c64e94e901de454cb3ab666a94e526             9184 main/binary-amd64/Packages
- 8892d4841e32dc8d8432c585bd476487ebee5252bc757af9c2b71ca91b723beb             3195 main/binary-amd64/Packages.gz
+ c5572749ed54805778e4a0b884edccf94c7bf609e209f093fa1d841d2e715f98             1456 Release
+ dd770301b466bfff450315d73f8b6d0b78993fea2e6c2cf80e0d2b1e3fd6e45d             9184 main/binary-amd64/Packages
+ 96c48c68a179f12e60e8a12e2bb63c9cc850834b5c6d726000c3268af53f72d8             3212 main/binary-amd64/Packages.gz
 SHA512:
- d9a0e6eb786b796c808302c20708e7256389718001c05685482722a37d90665ecba794e50e090570b6dab82baa98fd061aaa7190f7b3eba956917568a3616308             1456 Release
- 37cb375df5eb4d11236b1378e1ed1f8d61a5cda3d9da24ec1e6341cc47d2180b13d63ded5df2e0bb36489ddfebc37dea3c56c2d0f4af1472dd0cb509667d03c5             9184 main/binary-amd64/Packages
- 1b1fcc9fc8882ba2058e6670e285d401c316b86a8867c1fd5d6be944a87b73b01e7932ce3b0f449161ee9c05e1e096a27a68fac2d1174a317e21839fb0bf2db5             3195 main/binary-amd64/Packages.gz
+ f8f45127a1ba5e1e3384cc59346fc828f03f6ac8b01322b4521d230e64890ac55a11dfb7b6180caf155947fc0dc723fd2f8f85d186571ca8a3c270eb40533ee8             1456 Release
+ 3961f5e588d33a14916f1dbdec85bfdef011445ee104ddd7a4741720911dcda3a73fc375bacfd99f7085a0247626438cba7b14e91c7a420c1f20a358d7fc52d0             9184 main/binary-amd64/Packages
+ 154ca83993eb41f393d9c3f363ba3a7d29db3ed4967d5b7cd6069f66bb82b37beb94227a83bac91e20ac0691a38b4db509bfef294632ba0943607be062e41778             3212 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQDOlD6AETLrMHwTTi/OGvQwN8hbwUCawkCvgAKCRC/OGvQwN8h
-b6FxAQDtauPiT5UShE17aWCabTCoukpGKdGzvSGDRr3GnHJoMgD/ewaOl5TbQZt0
-9dIb7AgTzjcs17HfWeAluobIBIridgI=
-=1YL/
+iHUEARYKAB0WIQQDOlD6AETLrMHwTTi/OGvQwN8hbwUCawoEwgAKCRC/OGvQwN8h
+b8KvAQCIQkVk80asfqRpZHSIXBZo7pMPIruQ3cdnhpWLM+lztwD9FFeeJbyFr948
++JaKZEMchT91zOfAe2d5iL6XdficlA8=
+=Azw4
 -----END PGP SIGNATURE-----
