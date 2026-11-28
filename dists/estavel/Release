@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: estavel
 Components: main
-Date: Sat, 28 Nov 2026 00:08:18 +0000
+Date: Sat, 28 Nov 2026 01:05:57 +0000
 Label: Caduceu OS
 Origin: Caduceu OS
 Suite: estavel
 MD5Sum:
- 6e3f1b7b531a54be088334573903dde3             1456 Release
- 182ae2120a63226b9c0f8c5af14cfb90             9184 main/binary-amd64/Packages
- d0e8c46d663d3967a6920d3db34b9962             3185 main/binary-amd64/Packages.gz
+ b1510faa284a406b7e286712ae7d26b3             1456 Release
+ f00f0e12d0b46086571e4f6f99a7bb03             9184 main/binary-amd64/Packages
+ 35dc5b66d104964e9ea9b1d71188b8a6             3202 main/binary-amd64/Packages.gz
 SHA1:
- cf40e703645cd429e44293f73806103240b0ee39             1456 Release
- 441f0015b4173b6ac244071e66a77e707e282d1d             9184 main/binary-amd64/Packages
- 3b4cebb80ce6528e8ff706f02a02a96d1e158e3a             3185 main/binary-amd64/Packages.gz
+ f1fd8dd54e18be8dc542d4c492e4b8fd4aa6dcc3             1456 Release
+ 84f813df7a02907316a99cbe21d893cd248a2a67             9184 main/binary-amd64/Packages
+ 393b065307340fe27bd39b1dba8e1b52578a9c1b             3202 main/binary-amd64/Packages.gz
 SHA256:
- 18eb430a2eb822fd326677dbd59f5d13fb8500380cbe7d110afd5e9a95703983             1456 Release
- ba60d73b5358453099724f176b390a11d4f7892d029c1b35a1fd34bd35be9df8             9184 main/binary-amd64/Packages
- ac556b7fa44b19105bb1aee8429256338f5e775b2fae0bf83904350c0e8a8908             3185 main/binary-amd64/Packages.gz
+ fdcac757def93a2d81d304ed0f5b612472b45f4a26ba06349ef019c75db9150c             1456 Release
+ 0e88989e664155df9d40ef2ebf7c330526b25541a87e51a0c3eeec1b5c94ff12             9184 main/binary-amd64/Packages
+ f35d73e78b5e58ed5e764d4ddf4a03fa79411ae26a9df220a0ad378bf260da3b             3202 main/binary-amd64/Packages.gz
 SHA512:
- 9f37e1149e935e92c28bd2bd7b404f5623d358eb60eb7358c5192f65abec1c94a6aa5afdc75cb628c4226da46cd2232d3baeec147cfba59082d266f76c71109c             1456 Release
- 1a54fa97f7e4ab898b556bd262510f33d67e3e728346b7e7bcfa13af74edd419d9eee0702e8303d746283c978619fb1ef0edb429bdc61fc2f551982a9dd07a92             9184 main/binary-amd64/Packages
- fc6cae9bfdb4ee775dcd5fdd25c16c9d5000371aaae0364b1c3eeccfd2f0264fb59e169dba14552210e0c149057f3fd2d0d3767b538218b2d407f61576c79fdf             3185 main/binary-amd64/Packages.gz
+ 78e775258365534bca398ab1735bfad5fedf9c9bb716a6370b77d791a598f13e7f2a5968d895c3b87c0977004ed8fdd85cc0ca9b4decb88d03e4918f66d85e28             1456 Release
+ 69cf402b0649ac3b053a93f52f44084054b797d9fe32bd979964f8d7a3365a52e5be83abc239b4dfd29dc676a318c4bc886c86ca91818318737315553a02e515             9184 main/binary-amd64/Packages
+ 8d1020a5cfb530f22a4af96650b650ee9b765844c4658cd8bef3d6e4c571011b4ed241ba1976f61973291a147dbe05b9d1fd1b4face23a5e487e6fa18ae60b02             3202 main/binary-amd64/Packages.gz
